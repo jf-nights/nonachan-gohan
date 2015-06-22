@@ -1,0 +1,13 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    cinch (2.2.5)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  cinch
+
+BUNDLED WITH
+   1.10.3
